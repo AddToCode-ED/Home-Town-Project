@@ -61,6 +61,7 @@ body {
 
 /* GUIDE SECTION */
 .guide {
+	display: flexbox;
     background: white;
     padding: 50px 20px;
     margin-top: 50px;
