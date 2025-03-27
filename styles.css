@@ -90,6 +90,10 @@ body {
     font-weight: bold;
 }
 
+.selfie {
+	width: 150px;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .Top3 {
