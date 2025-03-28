@@ -62,7 +62,7 @@ body {
 /* GUIDE SECTION */
 .guide {
 	display: flexbox;
-    background: white;
+    background: #49b7d5;
     padding: 50px 20px;
     margin-top: 50px;
 }
