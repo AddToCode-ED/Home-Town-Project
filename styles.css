@@ -23,7 +23,7 @@ h2 {
     margin-top: 10px;
 }
 
-.activities, .Guide {
+.activities {
     margin: 30px auto;
     padding: 20px;
     background: white;
@@ -40,9 +40,18 @@ h3 {
 .Top3 img {
     width: 30%;
     margin: 10px;
-    border-radius: 8px;
+    border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
+.Guide {
+	display: flex;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    border-radius: 10px;
 
 .Guide p {
     font-style: italic;
